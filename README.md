@@ -12,12 +12,8 @@ This application provides a robust set of features to handle the full lifecycle 
 
 - **Dashboard:** A beautiful and insightful dashboard with key financial metrics like MRR (Monthly Recurring Revenue), ARR (Annual Recurring Revenue), ARPU (Average Revenue Per User), and more.
 - **Customer Management:** Full CRUD (Create, Read, Update, Delete) functionality for customers. View customer details, their subscription history, and manage their information.
-- **Product Management:** Full CRUD functionality for products. Define product names, pricing, billing cycles, and trial periods.
 - **Product Customization:** Configure products to be customizable, allowing for default settings and custom fields that can be tailored on a per-subscription basis.
 - **Subscription Management:** Create, view, update, and cancel subscriptions. Link customers to products with specific settings.
-- **Dynamic Forms:** Advanced forms that adapt based on product configuration, showing customizable fields only when applicable.
-- **Responsive Design:** The interface is fully responsive and optimized for a seamless experience on desktops, tablets, and mobile devices.
-- **Modern UI/UX:** Built with a focus on a clean, intuitive, and professional user experience.
 
 ---
 
@@ -46,8 +42,8 @@ You need to have [Node.js](https://nodejs.org/) (version 14 or later) and [npm](
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://your-repository-url.git
-    cd frontend-app
+    git clone https://github.com/sanchezIII/frontend_technical_test.git
+    cd frontend_technical_test
     ```
 
 2.  **Install dependencies:**
